@@ -1,0 +1,8 @@
+2023-05-21 14:17:55,452 INFO :: This message just shows basic information
+2023-05-21 14:17:55,452 WARNING :: This message is about something you should pay attention to
+2023-05-21 14:17:55,452 ERROR :: This message help to debug an error that occurred in your program
+2023-05-23 21:42:42,530 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2023-05-23 21:42:42,532 INFO :: Binance Futures Client successfully initialized
+2023-05-23 21:42:43,142 ERROR :: Error while making GET request to /api/v1/instrument/active: {'error': {'message': 'Invalid API Key.', 'name': 'HTTPError'}} (error code 401)
+2023-05-23 21:42:43,757 ERROR :: Error while making GET request to /api/v1/user/margin: {'error': {'message': 'Invalid API Key.', 'name': 'HTTPError'}} (error code 401)
+2023-05-23 21:42:43,759 INFO :: Bitmex Client successfully initialized
